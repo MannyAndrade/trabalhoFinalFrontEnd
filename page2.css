@@ -1,0 +1,30 @@
+
+.logo {
+    width: 120px;
+    }
+    
+    .letra-escura{
+       
+        font-weight: bold;
+        font-size: 18px;
+       }    
+    
+    .espaco-lateral {
+    
+        padding-left: 40px;
+        padding-right: 40px;
+        
+    }
+    .foto{
+        width:250px ;
+        height:182px;
+    }
+    .faixa-preta{
+
+        width: 200px;
+    
+    }
+    .alinhamento {
+    
+        text-align: center;
+    }

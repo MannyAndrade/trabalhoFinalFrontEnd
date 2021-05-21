@@ -1,0 +1,45 @@
+
+
+.logo {
+width: 120px;
+}
+
+.letra-escura{
+   
+    font-weight: bold;
+    font-size: 18px;
+   }
+   
+.largura {
+    width: 200px;
+
+   }
+.imagem {
+
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    
+    
+}
+.espaco-lateral {
+
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.faixa-preta{
+
+    width: 200px;
+
+}
+.alinhamento {
+
+    text-align: center;
+}
+
+
+
+
+
